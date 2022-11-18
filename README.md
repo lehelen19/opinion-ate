@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+opinion-ate
+
+An app for tracking reviews of dishes at different restaurants.
+Created with the purpose of practicing TDD with E2E and unit tests.
+
+Production: <https://testing-opinion-ate.netlify.app/>
+
+Dependencies are locked with a `yarn.lock` file, so please use `yarn`
+instead of `npm` to install them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
